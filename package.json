@@ -1,8 +1,8 @@
 {
   "name": "netrunr-heartbeat-v3",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Netrunr GAPI V3 program to detect heartbeat and services",
-  "main": "netrunr-heartbeat.js",
+  "main": "netrunr-heartbeat-single.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

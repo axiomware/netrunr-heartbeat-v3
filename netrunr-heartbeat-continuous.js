@@ -1,5 +1,5 @@
 /*
- * Example program - Detect Netrunr Heart beat signal
+ * Example program - Detect Netrunr Heart beat signal - run continuous
  *
  * Copyright(C) 2020 Axiomware Systems Inc..
  * https://www.axiomware.com/
